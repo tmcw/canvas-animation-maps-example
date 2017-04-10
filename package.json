@@ -11,7 +11,7 @@
   "dependencies": {
     "canvas": "^1.2.7",
     "csv-parser": "^1.7.0",
-    "geo-viewport": "^0.1.1",
+    "geo-viewport": "^0.2.1",
     "leftpad": "0.0.0",
     "sphericalmercator": "^1.0.3"
   }
